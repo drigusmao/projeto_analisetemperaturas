@@ -4,7 +4,7 @@ Este projeto lê as temperaturas de cada dia da semana, depois analisa os dados 
 
 # Requisitos
 
-- Python 3.6 ou superior instalado: [Download Python](https://www.python.org/downloads/)
+- Python 3.6 ou superior instalado.
 
 # Como executar
 python main.py
