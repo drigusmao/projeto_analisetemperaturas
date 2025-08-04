@@ -2,8 +2,6 @@
 
 ### Este projeto em Python solicita ao usuário as temperaturas registradas para cada dia da semana, realiza cálculos estatísticos (média, maior e menor temperatura) e gera um gráfico de barras para visualização.
 
-Demonstrar como coletar dados do usuário, validar entradas, trabalhar com arrays NumPy, realizar cálculos estatísticos simples e apresentar resultados de forma visual usando gráficos.
-
 ### Tecnologias Utilizadas: 
 
 - Python 3.x
