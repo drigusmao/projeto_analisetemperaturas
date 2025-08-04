@@ -1,5 +1,24 @@
-# Analisador de Temperaturas Semanais
+# Analisador de Temperaturas da Semana
 
-Este projeto em Python lê as temperaturas de cada dia da semana, depois analisa os dados semanal e gera um gráfico com as informações usando as bibliotecas Matplolib e NumPy no VSCode.
+### Este projeto em Python solicita ao usuário as temperaturas registradas para cada dia da semana, realiza cálculos estatísticos (média, maior e menor temperatura) e gera um gráfico de barras para visualização.
+
+Demonstrar como coletar dados do usuário, validar entradas, trabalhar com arrays NumPy, realizar cálculos estatísticos simples e apresentar resultados de forma visual usando gráficos.
+
+### Tecnologias Utilizadas: 
+
+- Python 3.x
+- NumPy → para cálculos e manipulação de arrays
+- Matplotlib → para geração de gráficos
+
+### Conceitos Aplicados: 
+
+- Manipulação de listas em Python (append, for, while)
+- Entrada de dados com input() e validação usando try/except
+- Uso de bibliotecas externas:
+- NumPy → conversão para arrays, mean, max, min, argmax, argmin
+- Matplotlib → geração de gráficos (bar, axhline, legend)
+- Formatação de strings (f-strings)
+- Laços de repetição para processar listas
+- Cálculo de estatísticas básicas: média, maior e menor valor
 
 
