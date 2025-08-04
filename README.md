@@ -2,12 +2,6 @@
 
 ### Este projeto em Python solicita ao usuário as temperaturas registradas para cada dia da semana, realiza cálculos estatísticos (média, maior e menor temperatura) e gera um gráfico de barras para visualização.
 
-### Tecnologias Utilizadas: 
-
-- Python 3.x
-- NumPy → para cálculos e manipulação de arrays
-- Matplotlib → para geração de gráficos
-
 ### Conceitos Aplicados: 
 
 - Manipulação de listas em Python (append, for, while)
@@ -19,4 +13,9 @@
 - Laços de repetição para processar listas
 - Cálculo de estatísticas básicas: média, maior e menor valor
 
+### Tecnologias Utilizadas: 
+
+- Python 3.x
+- NumPy → para cálculos e manipulação de arrays
+- Matplotlib → para geração de gráficos
 
