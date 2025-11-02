@@ -16,6 +16,6 @@
 ### Tecnologias Utilizadas: 
 
 - Python 3.x
-- NumPy → para cálculos e manipulação de arrays
-- Matplotlib → para geração de gráficos
-
+- NumPy → biblioteca para cálculos e manipulação de arrays
+- Matplotlib → biblioteca para geração de gráficos
+- VSCode
